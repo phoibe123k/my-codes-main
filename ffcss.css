@@ -1,0 +1,48 @@
+#fofo{background-color: rgb(99, 190, 23);
+height: 80px;
+margin: auto;
+padding: 6px;
+width: 1200px;
+border:3 px solid black;
+text-align: center;
+font-size: xx-large;
+}
+
+ #fofo a: link{
+     background-color: rgb(37, 102, 31);
+     
+     border-color: blueviolet;
+    color: rgb(197, 32, 115);
+    padding: auto;
+}
+#fofo a:hover{
+    background-color: rgb(204, 204, 21);
+    padding: 6px;
+}
+
+#cont{width: 1210px;
+background-color: yellow;
+height: 500px;
+margin:auto;}
+
+img{ display:Right;
+    width: 300px;
+    height: 300px;
+    margin-right: 20px;
+    
+}
+#vidio{
+    margin:Right;
+    width:300%;
+    height: 300px;
+    margin-right: 20px;
+}
+
+#register{
+   border: 2px salmon; 
+   border-radius: 10px;
+   background-color: skyblue;
+   width: 200px;
+   height: 150px;
+   margin: reft;
+}
